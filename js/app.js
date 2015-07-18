@@ -89,10 +89,10 @@
 
         // bus-vote
         $("button#bus-voteAgree").on("click", function() {
-            showNext($(".bus-voteDisagree"), $("#bus-voteDisagree"));
+            showNext($(".bus-noParticipate"), $("#bus-voteDisagree"));
         });
         $("button#bus-voteDisagree").on("click", function() {
-            showNext($(".bus-voteAgree"), $("#bus-voteAgree"));
+            showNext($(".bus-participate"), $("#bus-voteAgree"));
         });
 
         // bus-telescope
