@@ -168,8 +168,11 @@
             showNext($(".walk-sales"));
         });
 
+        // show careers
 
-
+        $("button#cp-3").on("click", function() {
+            showNext($(".cp-3"));
+        });
 
 
     });
