@@ -6,6 +6,12 @@
   margin-bottom: 10px;
 }
 
+.exit {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
 
 /*
 * Skeleton V2.0.4
