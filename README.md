@@ -4,7 +4,7 @@ A fun, interactive career finding tool for middle schoolers.
 What is it?
 ---------------
 
-adventureQuest is a hackathon project which allows middle school students a fun way to explore career options. We have implemented a choose your own adventure story based on a RIASAC test, allowing students to indentify their strengths and weakenesses based on the decisions they make. At the end of the story, the students will be given some suggested career options based on these strengths. The story has many different paths so students may also opt to go through the story multiple times and explore different career options. This project has been implemented using a responsive web application so that it is easy to view and use on mobile platforms as well.
+adventureQuest is a hackathon project which allows middle school students a fun way to explore career options. We have implemented a choose your own adventure story based on a RIASEC test, allowing students to indentify their strengths and weakenesses based on the decisions they make. At the end of the story, the students will be given some suggested career options based on these strengths. The story has many different paths so students may also opt to go through the story multiple times and explore different career options. This project has been implemented using a responsive web application so that it is easy to view and use on mobile platforms as well.
 
 Authors
 ----------------
